@@ -1,0 +1,516 @@
+@font-face {
+    font-family: My font one;
+    src: url(fonts/Flexo-Regular.ttf);
+}
+@font-face {
+    font-family: My font two;
+    src: url(fonts/Flexo-Medium.ttf);
+}
+@font-face {
+    font-family: My font three;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+.image-1{
+    height: 62px;
+    border-bottom: solid 2px #dedede;
+    background-color: #f5f5f5;   
+}
+.image-6{
+    margin-left: 10px;
+}
+.image-5{
+    margin-left: 8px;
+}
+.image-4{
+    margin-left: 10px;
+
+}
+.header{
+    width: 100%;
+    text-align: center;
+}
+.fa-solid{
+    background-color: gray;
+    color: white;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    padding: 2px;
+    margin-top: 5px;
+    text-align: center;
+}
+.ul>li{
+    display: inline-block ;
+}
+li{
+    list-style-type: none;
+}
+
+.one{
+    
+    width: 150px;
+    height: 80px;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+   margin-right: -0px;
+   display: inline-block;
+   
+}
+.two{
+    display: inline-block;
+   
+    width: 150px;
+    height: 80px;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+}
+.three{
+    display: inline-block;
+    
+    width: 150px;
+    height: 80px;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+
+}
+.four{
+    display: inline-block;
+   
+    width: 150px;
+    height: 80px;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+
+}
+.five{
+    display: inline-block;
+    
+    width: 150px;
+    height: 80px;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+
+}
+.six{
+    display: inline-block;
+    
+    width: 150px;
+    height: 80px;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+
+}
+.seven{
+    display: inline-block;
+   
+    width: 150px;
+    height: 80px;
+    text-align: center;
+   padding-top: 30px;
+   padding-bottom: 20px;
+
+}
+.one:hover{
+    background-color:#919191;
+    color:white;
+
+}
+.two:hover{
+    background-color:#E3350D;
+    color:white;
+
+}
+.three:hover{
+    background-color:#EE6B2F;
+    color:white;
+
+}
+.four:hover{
+    background-color:#E6BC2F;
+    color:white;
+
+}
+.five:hover{
+    background-color:#4DAD5B;
+    color:white;
+
+}
+.six:hover{
+    background-color:#30A7D7;
+    color:white;
+
+}
+.seven:hover{
+    background-color:#1B53BA;
+    color:white;
+
+}
+.main-2{
+    text-align:center ;
+}
+.h3{
+    background-color:#30A7D7;
+    color: white;
+    padding-top: 50px;
+    margin-left: 0px;
+    border-radius: 0px 5px 5px 0px;
+    
+}
+.main-2-part1{
+    width: 50%;
+    position: relative;    
+}
+.main-2-part2{
+    width: 30%;
+    margin-left: -100px;
+    padding-left: 20px;    
+}   
+.main-2-part1,.main-2-part2,.main-2-part3{
+    display: inline-block;   
+}
+.div{
+    background-color:white;
+   
+}
+.main-2-part2,.div-2{
+    display: inline-block;
+    width: 40%;
+}
+
+.part-1-a{
+    background-color: #855ac9;
+    color: black;
+    margin-top: -23px;
+    text-align: start;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    border-radius: 0px 0px 5px 5px;
+    
+}
+.part-2-a{
+    background-color: #1B53BA;
+    color: white;
+    margin-top: -23px;
+    width: 295px;
+    margin-left: 80px;
+    margin-right: -100px;
+    text-align: start;
+    padding-left: 20px;
+    border-radius: 0px 0px 5px 5px;
+}
+
+
+.main-3-part1{
+    display: inline-block;
+    margin-left:99px ;   
+}
+.main-3-part2{
+    display: inline-block;   
+    margin-right:30px;
+    margin-left: 30px;   
+}
+.main-3-part3{
+    display: inline-block;   
+}
+.part-2-a>h3{
+    font-family: My font two;
+}
+.part-2-a>p{
+    font-family: My font three;
+    color: black;
+}
+.part-1-a>h3{
+    font-family: My font two;
+    color: white;
+}
+.part-1-a>p{
+    font-family: My font three;
+    color: black;
+}
+.h3{
+    font-family: My font two;
+}
+.main-3{
+    display: inline-block;
+    
+    
+}
+.h-1{
+    background-color: #ff90c4;
+    padding-left: 20px;   
+    margin-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    font-family: My font two;
+    color: white;
+}
+.h-2{
+    background-color: #FF514F;
+    padding-left: 20px;  
+    margin-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    font-family: My font two;
+    color: white;
+
+}
+.h-3{
+    background-color:#e6bc2f;
+    color: white;
+    padding-left: 20px;   
+    margin-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    font-family: My font two;
+
+}
+.main-4{
+    background-color:black;
+    text-align: ;
+}
+.main-4-imgs{
+    background-color:#313131;
+
+}
+.main-5{
+    display: inline-block;
+    text-align: ;
+    margin-top: 50px;
+    
+
+}
+.main-5-part1{
+    display: inline-block;
+    margin-left:99px ;
+    
+}
+.main-5-part2{
+    display: inline-block;
+    margin-right:30px;
+    margin-left: 30px;
+    
+    
+}
+.main-5-part3{
+    display: inline-block;
+    
+}
+.k{
+    margin-top: 50px;
+}
+.h-4{
+    background-color:#e6bc2f;
+    color: white;
+    text-align: ;
+    margin-top: 0px;
+    font-size: 20px;
+    padding-left: 20px;
+    border-radius: 0px 0px 5px 5px;
+    font-family: My font two;
+    
+}
+.h-5{
+    background-color: #b89355;
+    color: white;
+    text-align: ;
+    margin-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    font-size: 20px;
+    font-family: My font two;
+    padding-left: 20px;
+
+}
+.h-6{
+    background-color:#855ac9;
+    text-align: ;
+    color: white;
+    margin-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    font-size: 20px;
+    font-family: My font two;
+    padding-left: 20px;
+}
+.p-1{
+    color: black !important;
+    font-size: 15px;
+    font-family: My font three;
+}
+.p-2{
+    color: #524022 !important;
+    font-size: 15px;
+    font-family: My font three;
+
+}
+.p-3{
+    color: #212121 !important;
+    font-size: 15px;
+    font-family: My font three;
+}
+.main-6{
+    display: inline-block;
+    
+    margin-top: 0px;
+    
+
+}
+.main-6-part1{
+    display: inline-block;
+    margin-left:99px ;
+    
+}
+.main-6-part2{
+    display: inline-block;
+    margin-right:30px;
+    margin-left: 30px;
+    
+    
+}
+.main-6-part3{
+    display: inline-block;
+    
+}
+
+.h-7{
+    background-color:#4DAD5B;
+    color: white;
+    text-align: ;
+    padding-left: 20px;
+    font-size: 20px;
+ 
+    border-radius: 0px 0px 5px 5px;
+    font-family: My font two;
+    
+}
+.h-8{
+    background-color:#ee6b2f;
+    color: white;
+    text-align: ;
+    padding-left: 20px;
+    border-radius: 0px 0px 5px 5px;
+    font-size: 20px;
+    font-family: My font two;
+     
+    
+
+}
+.h-9{
+    background-color:#30a7d7;
+    padding-left: 20px;
+    color: white;
+    margin-top: 0px;
+    border-radius: 0px 0px 5px 5px;
+    font-size: 20px;
+    font-family: My font two;
+
+}
+.p-4{
+    color: black !important;
+    font-size: 15px;
+    font-family: My font three;
+}
+.p-5{
+    color: #4b1c06 !important;
+    font-size: 15px;
+    font-family: My font three;
+
+}
+.p-6{
+    color: #212121 !important;
+    font-size: 15px;
+    font-family: My font three;
+}
+.h-10{
+    background-color:#ee6b2f;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 20px;
+    color: white;
+    padding-left: 20px;
+    font-family: My font two;
+}
+.p-7{
+    background-color:#30A7D7 ;
+    font-size: 15px;
+    color: black !important;
+    font-family: My font three;
+}
+.main-7{
+    background-color:#1f1f1f;
+    width: 100%;
+    height: 105vh;
+    color: white;
+    padding-top: 50px;
+    padding-left:200px;
+    
+
+}
+.form{
+    font-weight: bold;
+    font-family: My font three;
+    
+    height: 200px;
+}
+.hed{
+    font-family: My font three;
+}
+.head{
+    font-family: My font one !important;
+}
+.forms,.checkbox{
+    display: inline-block;
+}
+.checkbox{
+    margin-left: 100px;
+    font-family: My font three;
+    
+}
+.btn{
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+    /* width: 200;
+    height: 164; */
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top:20px ;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    border: none;
+    margin-bottom: 50px;
+}
+.footer>ul>li{
+    margin-left: -40px !important;
+}
+.footer-1{
+    display: inline-block;
+    padding-right: 50px;
+    font-family: My font three;
+    
+}
+.footer-2{
+    display: inline-block;
+    padding-right: 50px;
+    
+}
+
+.footer-3{
+    display:inline-block;
+    font-family: My font three;
+}
+.footer-3>ul>li{
+    margin-left: -40px !important;
+    
+
+}
+.g{
+    display: inline-block;
+    
+}
+
+
+
+
+
